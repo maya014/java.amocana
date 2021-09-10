@@ -1,0 +1,30 @@
+body{
+	background-color: rgb(67, 57, 138);
+}
+.d-main{
+	background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+	margin: 50px;
+	border: 2px solid rgb(254, 0, 0);
+	text-align: center;
+}
+.text{
+	padding: 25px;
+}
+.answer{
+border: 2px solid rgb(243, 132, 228);
+background: linear-gradient(to left, #33ccff 0%, #3333ff 100%);
+padding: 10px;
+width: 50%;
+margin-left: 25%;
+}
+.answer:hover{
+border: 2px solid rgb(243, 132, 228);
+background: linear-gradient(to right, #33ccff 0%, #3333ff 100%);
+padding: 10px;
+width: 50%;
+margin-left: 25%;
+}
+.answer a{
+	text-decoration: none;
+	color: white;
+}
